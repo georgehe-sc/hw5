@@ -1,6 +1,5 @@
 #ifndef RECCHECK
 // For debugging
-#include <iostream>
 // For std::remove
 #include <algorithm> 
 #include <map>

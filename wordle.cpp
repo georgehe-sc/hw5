@@ -1,13 +1,10 @@
 #ifndef RECCHECK
-// For debugging
-// For std::remove
 #include <map>
 #include <set>
 #endif
 
 #include "wordle.h"
 #include "dict-eng.h"
-#include <map>
 using namespace std;
 
 
